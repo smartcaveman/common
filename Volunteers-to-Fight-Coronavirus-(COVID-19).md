@@ -1,0 +1,1 @@
+Our focus is to organize a large group of volunteers of varying skills, availability and commitment into a group that is highly effective at ideating, coordinating and accomplishing tasks that aid the medical community’s ability to answer key questions related to COVID-19
