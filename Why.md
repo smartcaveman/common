@@ -1,0 +1,3 @@
+We are all in this together and for the sake of our high risk segments of the population, it is incumbent on every member of society, every business and every government to make an effort in solidarity to overcome this Pandemic using all the tools available with the collective creative problem solving capability of human society worldwide.In response to the COVID-19 pandemic, the White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19).
+
+This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease.
