@@ -7,4 +7,4 @@
 * Data engineers (there is a lot of data and we need to preprocess and enrich it)
 * Developers (we still need to build traditional non-AI systems to help ML pipeline)
 
-Please spread our "Call to Action" document across your social channels to maximize reach about who we are and what we need help with right now.
+Please spread our [Call to Action](https://github.com/CoronaWhy/common/wiki/Call-To-Action) document across your social channels to maximize reach about who we are and what we need help with right now.
