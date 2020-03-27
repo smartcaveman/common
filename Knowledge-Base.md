@@ -1,7 +1,6 @@
 # knowledge-base
 CoronaWhy knowledge-base
 
-
 ## products
 * notebooks
 * summary of technical methods or findings
